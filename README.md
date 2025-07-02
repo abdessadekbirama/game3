@@ -1,11 +1,10 @@
-# 🧩 Math Game
+# 🧮 Math Challenge Game
 
-A smooth and responsive sliding puzzle game built with **React** and **Tailwind CSS**.  
-Test your logic and enjoy solving puzzles using randomly chosen images!
+A fast and fun **Math Game** built with **React** and **Tailwind CSS**.  
+Test your brain by solving as many math questions as you can within the time limit!
 
 ![screenshot](public/images/screen1.png)
 ![screenshot](public/images/screen2.png)
-
 
 ---
 
@@ -17,11 +16,11 @@ Test your logic and enjoy solving puzzles using randomly chosen images!
 
 ## 🎮 Features
 
-- ✅ Random image selected from `/public/images/` on each game
-- ✅ Smooth sliding animation using Tailwind transitions
-- ✅ Win detection and celebration message
-- ✅ Empty tile is filled with the correct image piece after winning
-- ✅ Fully responsive design (desktop & mobile)
+- ✅ Random math questions (addition, subtraction, etc.)
+- ✅ Countdown timer to add pressure ⏱️
+- ✅ Score counter that updates in real time
+- ✅ Simple, responsive UI for both desktop and mobile
+- ✅ Smooth transitions and animations with Tailwind CSS
 
 ---
 
